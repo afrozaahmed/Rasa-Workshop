@@ -1,10 +1,3 @@
-# Notes on Rasa `1.x / 2.0`
-
-1. The master branch of this repo is compatible with Rasa Open Source **version 1.x**
-2. The bot for **Rasa 2.0** can be found in the [rasa-2-0 branch](https://github.com/RasaHQ/financial-demo/tree/rasa-2-0).
-
-
-
 # Financial Services Example Bot
 
 This is an example chatbot demonstrating how to build AI assistants for financial services and banking. This starter pack can be used as a base for your own development or as a reference guide for implementing common banking-industry features with Rasa. It includes pre-built intents, actions, and stories for handling conversation flows like checking spending history and transferring money to another account.
